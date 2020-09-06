@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/People-Finder/static/css/main.11ecdcf2.chunk.css",
+    "main.js": "/People-Finder/static/js/main.0ff9b942.chunk.js",
+    "main.js.map": "/People-Finder/static/js/main.0ff9b942.chunk.js.map",
+    "runtime-main.js": "/People-Finder/static/js/runtime-main.d391d5d4.js",
+    "runtime-main.js.map": "/People-Finder/static/js/runtime-main.d391d5d4.js.map",
+    "static/js/2.568cb915.chunk.js": "/People-Finder/static/js/2.568cb915.chunk.js",
+    "static/js/2.568cb915.chunk.js.map": "/People-Finder/static/js/2.568cb915.chunk.js.map",
+    "index.html": "/People-Finder/index.html",
+    "precache-manifest.214d26e1e03fe876ac8c293df5573d38.js": "/People-Finder/precache-manifest.214d26e1e03fe876ac8c293df5573d38.js",
+    "service-worker.js": "/People-Finder/service-worker.js",
+    "static/css/main.11ecdcf2.chunk.css.map": "/People-Finder/static/css/main.11ecdcf2.chunk.css.map",
+    "static/js/2.568cb915.chunk.js.LICENSE.txt": "/People-Finder/static/js/2.568cb915.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d391d5d4.js",
+    "static/js/2.568cb915.chunk.js",
+    "static/css/main.11ecdcf2.chunk.css",
+    "static/js/main.0ff9b942.chunk.js"
+  ]
+}
